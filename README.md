@@ -27,4 +27,4 @@ I am interested in Deep Learning overall, if you would like to collaborate, do r
 - Email in my GitHub Profile
 - [LinkedIn](https://www.linkedin.com/in/ruben-branco-2141641a1/)
 - [Website](https://rubenbranco.github.io/)
-
+- [Google Scholar](https://scholar.google.pt/citations?user=7nC30zwAAAAJ)
