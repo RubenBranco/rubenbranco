@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **RubenBranco/rubenbranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github.com/RubenBranco/rubenbranco/blob/main/header.png" alt="readme banner">
+
+---
+
+I'm a PhD Student at the Faculty of Sciences,  University of Lisbon working on generative modelling for longitudinal clinical datasets, with a focus on neurodegenerative diseases.
+
+I am interested in Deep Learning overall, if you would like to collaborate, do reach out :)
+
+## 📫 How to reach me:
+
+- Email in my GitHub Profile
+- [LinkedIn](https://www.linkedin.com/in/ruben-branco-2141641a1/)
+- [Website](https://rubenbranco.github.io/)
+
